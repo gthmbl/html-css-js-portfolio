@@ -433,3 +433,7 @@ footer {
 footer p {
     text-align: center;
 }
+
+.details-container:hover {
+    transform: translateY(-10px);
+}
